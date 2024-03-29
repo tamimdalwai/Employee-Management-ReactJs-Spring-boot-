@@ -44,7 +44,7 @@
 2. **Navigate to the frontend directory:**
 
    ```bash
-   cd employee-management-system/frontend
+   cd employee-management-system-frontend
    ```
 
 3. **Install dependencies:**

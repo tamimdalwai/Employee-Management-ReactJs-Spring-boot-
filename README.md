@@ -62,14 +62,14 @@
 5. **Navigate to the backend directory:**
 
    ```bash
-   cd ../backend
+   cd ../EmployeeManagementBackend
    ```
 
 6. **Import the project into your preferred IDE (Eclipse, IntelliJ, etc.)**
 
 7. **Run the Spring Boot application:**
 
-   - Run the main method in `EmployeeManagementSystemApplication.java`
+   - Run the main method in `EmployeeManagementBackendApplication.java`
 
 8. **Access the application:**
    - Open your web browser and go to `http://localhost:3000` to access the frontend.
